@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey — I'm Jevon
 
-<!--
-**Jevon420/Jevon420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer focused on building useful, real-world applications.
 
-Here are some ideas to get you started:
+### 🔧 Tech I use
+- Laravel / PHP
+- React / JavaScript / TypeScript
+- Tailwind CSS
+- Flutter (learning)
+- MySQL, REST APIs, Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+#### 🏆 Gallery Viewer (Flagship)
+Photo & event sharing platform with public + private galleries, invitations, analytics and more.
+
+#### 🏢 BoostByte One
+Company site + backend tools powering multiple projects.  
+Business + dev hub: dashboards, site management, and future SaaS services.
+
+#### ⚙️ Dennies BMS (Business Management System)
+Large-scale internal system for operations: logs, workflows, roles, activity tracking, and more.
+
+### 🎯 Goals
+- Improve architecture, testing and scalability
+- Build robust, API-driven applications
+- Continue learning DevOps and deployment best practices
+
+📫 Website: **https://jevonredhead.com**
