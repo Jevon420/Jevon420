@@ -1,6 +1,6 @@
 # 👋 Hey — I'm Jevon
 
-Full-stack web developer focused on building useful, real-world applications.
+Full-stack web developer — growing into a **Systems Architect** — focused on designing how entire applications fit together (APIs, data, infrastructure) while still building real, useful software.
 
 ### 🔧 Tech I use
 - Laravel / PHP
@@ -24,5 +24,7 @@ Large-scale internal system for operations: logs, workflows, roles, activity tra
 - Improve architecture, testing and scalability
 - Build robust, API-driven applications
 - Continue learning DevOps and deployment best practices
+- Develop stronger system design & software architecture skills
+  (scaling, security, reliability)
 
 📫 Website: **https://jevonredhead.com**
