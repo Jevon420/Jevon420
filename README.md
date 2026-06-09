@@ -1,80 +1,114 @@
-# 👋 Hi, I'm Jevon
+Hi, I’m Jevon
 
-I work on **web and application systems**, with a focus on how different parts of an
-application fit together — APIs, data, infrastructure, and operations.
+I build web, application, and platform systems with a focus on how different parts of an application work together: APIs, data, infrastructure, deployment, operations, and long-term maintenance.
 
-I’m a full-stack developer gradually moving toward **systems and platform design**,
-with an interest in building software that is reliable, maintainable, and practical
-to run in production.
+I’m a full-stack developer gradually moving toward systems architecture and platform design, building practical software that can grow from idea to real production use.
 
----
+⸻
 
-## 🧠 What I Focus On
+What I Focus On
 
-- Application and system architecture
-- API-driven design
-- Data modeling and structure
-- Deployment and environment setup
-- Long-term maintenance and iteration
-- Building systems intended for real use, not just demos
+* Full-stack web application development
+* API-driven system design
+* Data modeling and database structure
+* Authentication, authorization, roles, and permissions
+* Deployment and environment setup
+* Background jobs, scheduling, and operational workflows
+* Maintenance, scalability, and reliability
+* Building systems intended for real users, not just demos
 
----
+⸻
 
-## 🔧 Tech I Work With
+Tech I Work With
 
-**Backend**
-- Laravel / PHP
-- REST APIs, authentication & authorization
-- MySQL
+Backend
 
-**Frontend**
-- React (JavaScript / TypeScript)
-- Tailwind CSS
+* Laravel / PHP
+* REST APIs
+* MySQL
+* Authentication and authorization
+* Background jobs and scheduling
+* Role-based access control
 
-**Apps**
-- Flutter (learning)
+Frontend
 
-**Operational Areas**
-- Hosting and deployments
-- Background jobs and scheduling
-- Environment separation (local / staging / production)
-- Stability, maintenance, and scaling considerations
+* React
+* Next.js
+* JavaScript / TypeScript
+* Tailwind CSS
+* Livewire
 
----
+Apps
 
-## 🏗️ Projects & Platforms
+* Flutter
+* Web apps / PWAs
 
-### Gallery Viewer
-A photo and event sharing platform with public and private galleries,
-invitations, access control, and basic analytics.
+Operations
 
-🌐 https://thegalleryviewer.com
+* Laravel Cloud
+* Vercel
+* Hosting and deployments
+* Local, staging, and production environments
+* Object storage
+* Monitoring, maintenance, and scaling considerations
 
-This is my primary long-term product and an ongoing learning platform.
+⸻
 
----
+FITS
 
-### BoostByte One
-A product studio and technical hub used to manage and support multiple
-applications and internal tools.
+Forced Induction Technology Solutions is the parent company behind my software products, internal tools, and digital systems.
 
-🌐 https://boostbyteone.com
+FITS represents the bigger vision: building practical technology solutions across web platforms, business systems, automation, and software products.
 
----
+Website: fitsforged.com
 
-### Dennies BMS
-An internal business management system designed to support operational
-workflows, roles, activity tracking, and structured logging.
+⸻
 
----
+BoostByte One
 
-## 🎯 Current Direction
+BoostByte One is the software and product hub under FITS, focused on web development, platform systems, SaaS tools, internal tools, and digital products.
 
-- Strengthen system design and architecture skills
-- Improve reliability, security, and scalability
-- Build and maintain production-ready platforms
-- Continue growing from application development into system-level design
+It is where I build, manage, and grow products that solve real operational problems for users, teams, and businesses.
 
----
+Website: boostbyteone.com
 
-📫 **Website:** https://jevonredhead.com
+⸻
+
+Projects and Platforms
+
+BoostByte Forms
+
+BoostByte Forms is a survey, quiz, and form-building platform designed for teams and organizations that need structured data collection without unnecessary complexity.
+
+It includes organization workspaces, a spreadsheet-style form builder, public share links, access-code protected forms, multiple question types, quiz scoring, conditional logic, file uploads, results dashboards, exports, and AI-assisted drafting and summaries.
+
+Website: forms.boostbyteone.com
+
+⸻
+
+Gallery Viewer
+
+Gallery Viewer is a photo and event sharing platform with public and private galleries, invitations, access control, likes, comments, and user-focused sharing features.
+
+It is one of my main long-term products and an ongoing learning platform for building production-ready systems.
+
+Website: thegalleryviewer.com
+
+⸻
+
+Current Direction
+
+* Strengthening my system design and architecture skills
+* Building production-ready Laravel, React, Next.js, Livewire, and Flutter-based platforms
+* Improving reliability, security, and scalability across my projects
+* Growing BoostByte One and FITS into a structured software ecosystem
+* Moving from individual application development toward full platform ownership
+
+⸻
+
+Links
+
+* Website: jevonredhead.com
+* BoostByte One: boostbyteone.com
+* BoostByte Forms: forms.boostbyteone.com
+* FITS: fitsforged.com
